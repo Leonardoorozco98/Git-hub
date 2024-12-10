@@ -1,0 +1,54 @@
+body{
+font-family: 'Times New Roman', Times, serif;
+line-height: 1.5;
+margin: 0;
+padding: 0;
+background-color: #1b1b1b;
+color: azure;
+}
+header{
+    background: #000000;
+    color: azure;
+    padding: 10px;
+    text-align: center   ;
+}
+nav ul{
+    list-style: none;
+    padding: 0;
+
+}
+
+nav ul li{
+display: inline;
+margin-right: 10px;
+
+}
+
+Nav ul li a{
+color: #929292;
+text-decoration: none;
+}
+main {
+    padding: 20px;
+}
+main table{
+
+display: inline;
+border-color: rgb(255, 255, 255) ;
+
+}
+
+main h2{
+text-align: center;
+
+}
+Footer{
+    background: black;
+    color: azure;
+text-align: center;
+padding: 10px;
+position: relative;
+width: 100%;
+
+}
+h

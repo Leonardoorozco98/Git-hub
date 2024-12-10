@@ -1,0 +1,44 @@
+body{
+font-family: 'Times New Roman', Times, serif;
+line-height: 1.5;
+margin: 0;
+padding: 0;
+background-color: #2c0153;
+color: azure;
+}
+header{
+    background: #140127;
+    color: azure;
+    padding: 10px;
+    text-align: center;
+}
+nav ul{
+    list-style: none;
+    padding: 0;
+
+}
+
+nav ul li{
+display: inline;
+margin-right: 10px;
+
+}
+
+Nav ul li a{
+color: aqua;
+text-decoration: aquamarine;
+}
+main {
+    
+    padding: 20px;
+}
+
+Footer{
+    background: black;
+    color: azure;
+text-align: center;
+padding: 10px;
+position: relative;
+width: 100%;
+
+}
